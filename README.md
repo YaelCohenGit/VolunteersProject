@@ -1,4 +1,4 @@
-# VolunteersProject - Yedidim
+# Volunteers Project - Yedidim
 
 A server-side system built with **Node.js** and **MongoDB** to facilitate coordination between volunteers and help-seekers. This project aims to streamline the process of connecting individuals in need with available volunteers, ensuring effective and timely assistance.
 
